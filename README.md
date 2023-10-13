@@ -1,7 +1,7 @@
 # todolist with Java Spring Boot
 
 <p>
-  A to-do list application with Java and framework Spring Boot, a simple crud that allows the user to register, update, create, and update the tasks. 
+  A to-do list application with Java and framework Spring Boot, a simple crud that allows the user to register, update, create, and update the tasks. Each method has its own route to handle the requests and the response. 
 </p>
 
 # Technologies used in the development
@@ -50,3 +50,8 @@ $ mvn spring-boot:run
     <a href="https://insomnia.rest/">Insomnia</a>
   </li>
 </ul>
+
+# Access the hosted application, past the link below on your rest client to test
+<p>
+  https://todolist-7ffx.onrender.com
+</p>
